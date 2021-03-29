@@ -1,2 +1,2 @@
-# about.github.io
-白嫖githubpage做的aboutme
+# 看啥看，直接去看网页啊
+**你指望`readme.md`能有啥？**
